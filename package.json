@@ -1,6 +1,6 @@
 {
   "name": "browser-token-machine",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "open a url, call a callback when user enters info",
   "main": "lib/browser-token-machine.js",
   "scripts": {
