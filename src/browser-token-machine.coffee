@@ -10,4 +10,5 @@ module.exports = (url, question, cb)->
     output:process.stdout
   rl.question question, (thing)->
     cb thing
+    rl.close()
 
